@@ -59,8 +59,7 @@ const questions =
                 type: 'list',
                 message: "Which license do you prefer for this project? Select one.",
                 name: 'license',
-                choices: ['MIT', new inquirer.Separator(), 'Cat'],
-            
+                choices: ['MIT', new inquirer.Separator(), 'GVL'],
             },
             {
                 type: 'input',

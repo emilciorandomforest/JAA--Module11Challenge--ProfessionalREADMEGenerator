@@ -9,6 +9,7 @@
           <li><a href="#testing">Testing</a></li>
           <li><a href="#contributions">Contribution Guidelines</a></li>
           <li><a href="#questions">Questions</a></li>
+          <li><a href="#badges">Badges</a></li>
         </ul>
   <h2 id="Description">Description</h2>
     <p>a</p>
@@ -28,3 +29,4 @@
     <p>You can find my GitHub here: a.</p>
     <p>You can feel free to contact me at the following e-mail address: a.</p>
     <p>Feel free to reach out with any questions that you might have about this README Generator project.</p>
+  <h2 id="badges">Badges</h2>

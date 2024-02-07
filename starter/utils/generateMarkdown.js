@@ -11,6 +11,7 @@ function generateMarkdown(data) {
           <li><a href="#testing">Testing</a></li>
           <li><a href="#contributions">Contribution Guidelines</a></li>
           <li><a href="#questions">Questions</a></li>
+          <li><a href="#badges">Badges</a></li>
         </ul>
   <h2 id="Description">Description</h2>
     <p>${data.description}</p>
@@ -30,7 +31,8 @@ function generateMarkdown(data) {
     <p>You can find my GitHub here: ${data.username}.</p>
     <p>You can feel free to contact me at the following e-mail address: ${data.username}.</p>
     <p>Feel free to reach out with any questions that you might have about this README Generator project.</p>
-`;
+  <h2 id="badges">Badges</h2>
+    `;
 }
 
 module.exports = generateMarkdown;
